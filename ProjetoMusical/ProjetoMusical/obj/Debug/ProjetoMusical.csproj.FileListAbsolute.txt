@@ -1,0 +1,90 @@
+C:\Users\Isaac\OneDrive\Documentos\GTI\2º Semestre\Linguagem de Programação\ProjetoMusical\ProjetoMusical\bin\Debug\ProjetoMusical.exe.config
+C:\Users\Isaac\OneDrive\Documentos\GTI\2º Semestre\Linguagem de Programação\ProjetoMusical\ProjetoMusical\bin\Debug\ProjetoMusical.exe
+C:\Users\Isaac\OneDrive\Documentos\GTI\2º Semestre\Linguagem de Programação\ProjetoMusical\ProjetoMusical\bin\Debug\ProjetoMusical.pdb
+C:\Users\Isaac\OneDrive\Documentos\GTI\2º Semestre\Linguagem de Programação\ProjetoMusical\ProjetoMusical\obj\Debug\ProjetoMusical.csprojAssemblyReference.cache
+C:\Users\Isaac\OneDrive\Documentos\GTI\2º Semestre\Linguagem de Programação\ProjetoMusical\ProjetoMusical\obj\Debug\ProjetoMusical.Login.resources
+C:\Users\Isaac\OneDrive\Documentos\GTI\2º Semestre\Linguagem de Programação\ProjetoMusical\ProjetoMusical\obj\Debug\ProjetoMusical.Properties.Resources.resources
+C:\Users\Isaac\OneDrive\Documentos\GTI\2º Semestre\Linguagem de Programação\ProjetoMusical\ProjetoMusical\obj\Debug\ProjetoMusical.csproj.GenerateResource.cache
+C:\Users\Isaac\OneDrive\Documentos\GTI\2º Semestre\Linguagem de Programação\ProjetoMusical\ProjetoMusical\obj\Debug\ProjetoMusical.csproj.CoreCompileInputs.cache
+C:\Users\Isaac\OneDrive\Documentos\GTI\2º Semestre\Linguagem de Programação\ProjetoMusical\ProjetoMusical\obj\Debug\ProjetoMusical.exe
+C:\Users\Isaac\OneDrive\Documentos\GTI\2º Semestre\Linguagem de Programação\ProjetoMusical\ProjetoMusical\obj\Debug\ProjetoMusical.pdb
+C:\Users\Isaac\OneDrive\Documentos\GTI\2º Semestre\Linguagem de Programação\ProjetoMusical\ProjetoMusical\obj\Debug\ProjetoMusical.Menu.resources
+C:\Users\Isaac\OneDrive\Documentos\GTI\2º Semestre\Linguagem de Programação\ProjetoMusical\ProjetoMusical\obj\Debug\ProjetoMusical.CadastroPessoal.resources
+C:\Users\Isaac\OneDrive\Documentos\GTI\2º Semestre\Linguagem de Programação\ProjetoMusical\ProjetoMusical\obj\Debug\ProjetoMusical.Compras.resources
+C:\Users\Isaac\OneDrive\Documentos\GTI\2º Semestre\Linguagem de Programação\ProjetoMusical\ProjetoMusical\obj\Debug\ProjetoMusical.FichaAnderson.resources
+C:\Users\Isaac\OneDrive\Documentos\GTI\2º Semestre\Linguagem de Programação\ProjetoMusical\ProjetoMusical\obj\Debug\ProjetoMusical.FichaCássia.resources
+C:\Users\aluno\Desktop\ProjetoMusical\ProjetoMusical\bin\Debug\ProjetoMusical.exe.config
+C:\Users\aluno\Desktop\ProjetoMusical\ProjetoMusical\bin\Debug\ProjetoMusical.exe
+C:\Users\aluno\Desktop\ProjetoMusical\ProjetoMusical\bin\Debug\ProjetoMusical.pdb
+C:\Users\aluno\Desktop\ProjetoMusical\ProjetoMusical\obj\Debug\ProjetoMusical.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\ProjetoMusical\ProjetoMusical\obj\Debug\ProjetoMusical.CadastroPessoal.resources
+C:\Users\aluno\Desktop\ProjetoMusical\ProjetoMusical\obj\Debug\ProjetoMusical.Compras.resources
+C:\Users\aluno\Desktop\ProjetoMusical\ProjetoMusical\obj\Debug\ProjetoMusical.FichaAnderson.resources
+C:\Users\aluno\Desktop\ProjetoMusical\ProjetoMusical\obj\Debug\ProjetoMusical.FichaCássia.resources
+C:\Users\aluno\Desktop\ProjetoMusical\ProjetoMusical\obj\Debug\ProjetoMusical.Login.resources
+C:\Users\aluno\Desktop\ProjetoMusical\ProjetoMusical\obj\Debug\ProjetoMusical.Menu.resources
+C:\Users\aluno\Desktop\ProjetoMusical\ProjetoMusical\obj\Debug\ProjetoMusical.Properties.Resources.resources
+C:\Users\aluno\Desktop\ProjetoMusical\ProjetoMusical\obj\Debug\ProjetoMusical.Créditos.resources
+C:\Users\aluno\Desktop\ProjetoMusical\ProjetoMusical\obj\Debug\ProjetoMusical.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\ProjetoMusical\ProjetoMusical\obj\Debug\ProjetoMusical.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\ProjetoMusical\ProjetoMusical\obj\Debug\ProjetoMusical.exe
+C:\Users\aluno\Desktop\ProjetoMusical\ProjetoMusical\obj\Debug\ProjetoMusical.pdb
+C:\Users\aluno\Desktop\ProjetoMusical\ProjetoMusical\bin\Debug\Database1.mdf
+C:\Users\aluno\Desktop\ProjetoMusical\ProjetoMusical\bin\Debug\Database1_log.ldf
+C:\Users\aluno\Desktop\Pastita\ProjetoMusical\ProjetoMusical\bin\Debug\Database1.mdf
+C:\Users\aluno\Desktop\Pastita\ProjetoMusical\ProjetoMusical\bin\Debug\Database1_log.ldf
+C:\Users\aluno\Desktop\Pastita\ProjetoMusical\ProjetoMusical\bin\Debug\ProjetoMusical.exe.config
+C:\Users\aluno\Desktop\Pastita\ProjetoMusical\ProjetoMusical\bin\Debug\ProjetoMusical.exe
+C:\Users\aluno\Desktop\Pastita\ProjetoMusical\ProjetoMusical\bin\Debug\ProjetoMusical.pdb
+C:\Users\aluno\Desktop\Pastita\ProjetoMusical\ProjetoMusical\obj\Debug\ProjetoMusical.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\Pastita\ProjetoMusical\ProjetoMusical\obj\Debug\ProjetoMusical.CadastroPessoal.resources
+C:\Users\aluno\Desktop\Pastita\ProjetoMusical\ProjetoMusical\obj\Debug\ProjetoMusical.Compras.resources
+C:\Users\aluno\Desktop\Pastita\ProjetoMusical\ProjetoMusical\obj\Debug\ProjetoMusical.FichaAnderson.resources
+C:\Users\aluno\Desktop\Pastita\ProjetoMusical\ProjetoMusical\obj\Debug\ProjetoMusical.FichaCássia.resources
+C:\Users\aluno\Desktop\Pastita\ProjetoMusical\ProjetoMusical\obj\Debug\ProjetoMusical.Login.resources
+C:\Users\aluno\Desktop\Pastita\ProjetoMusical\ProjetoMusical\obj\Debug\ProjetoMusical.Menu.resources
+C:\Users\aluno\Desktop\Pastita\ProjetoMusical\ProjetoMusical\obj\Debug\ProjetoMusical.Properties.Resources.resources
+C:\Users\aluno\Desktop\Pastita\ProjetoMusical\ProjetoMusical\obj\Debug\ProjetoMusical.Créditos.resources
+C:\Users\aluno\Desktop\Pastita\ProjetoMusical\ProjetoMusical\obj\Debug\ProjetoMusical.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\Pastita\ProjetoMusical\ProjetoMusical\obj\Debug\ProjetoMusical.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Pastita\ProjetoMusical\ProjetoMusical\obj\Debug\ProjetoMusical.exe
+C:\Users\aluno\Desktop\Pastita\ProjetoMusical\ProjetoMusical\obj\Debug\ProjetoMusical.pdb
+C:\Users\aluno\Desktop\Pastita\ProjetoMusical\ProjetoMusical\obj\Debug\ProjetoMusical.Funcionarios.resources
+C:\Users\Eduardo\OneDrive\Área de Trabalho\Pastita\ProjetoMusical\ProjetoMusical\bin\Debug\Database1.mdf
+C:\Users\Eduardo\OneDrive\Área de Trabalho\Pastita\ProjetoMusical\ProjetoMusical\bin\Debug\Database1_log.ldf
+C:\Users\Eduardo\OneDrive\Área de Trabalho\Pastita\ProjetoMusical\ProjetoMusical\bin\Debug\ProjetoMusical.exe.config
+C:\Users\Eduardo\OneDrive\Área de Trabalho\Pastita\ProjetoMusical\ProjetoMusical\bin\Debug\ProjetoMusical.exe
+C:\Users\Eduardo\OneDrive\Área de Trabalho\Pastita\ProjetoMusical\ProjetoMusical\bin\Debug\ProjetoMusical.pdb
+C:\Users\Eduardo\OneDrive\Área de Trabalho\Pastita\ProjetoMusical\ProjetoMusical\obj\Debug\ProjetoMusical.csproj.AssemblyReference.cache
+C:\Users\Eduardo\OneDrive\Área de Trabalho\Pastita\ProjetoMusical\ProjetoMusical\obj\Debug\ProjetoMusical.CadastroPessoal.resources
+C:\Users\Eduardo\OneDrive\Área de Trabalho\Pastita\ProjetoMusical\ProjetoMusical\obj\Debug\ProjetoMusical.Compras.resources
+C:\Users\Eduardo\OneDrive\Área de Trabalho\Pastita\ProjetoMusical\ProjetoMusical\obj\Debug\ProjetoMusical.FichaAnderson.resources
+C:\Users\Eduardo\OneDrive\Área de Trabalho\Pastita\ProjetoMusical\ProjetoMusical\obj\Debug\ProjetoMusical.FichaCássia.resources
+C:\Users\Eduardo\OneDrive\Área de Trabalho\Pastita\ProjetoMusical\ProjetoMusical\obj\Debug\ProjetoMusical.Funcionarios.resources
+C:\Users\Eduardo\OneDrive\Área de Trabalho\Pastita\ProjetoMusical\ProjetoMusical\obj\Debug\ProjetoMusical.Login.resources
+C:\Users\Eduardo\OneDrive\Área de Trabalho\Pastita\ProjetoMusical\ProjetoMusical\obj\Debug\ProjetoMusical.Menu.resources
+C:\Users\Eduardo\OneDrive\Área de Trabalho\Pastita\ProjetoMusical\ProjetoMusical\obj\Debug\ProjetoMusical.Properties.Resources.resources
+C:\Users\Eduardo\OneDrive\Área de Trabalho\Pastita\ProjetoMusical\ProjetoMusical\obj\Debug\ProjetoMusical.Créditos.resources
+C:\Users\Eduardo\OneDrive\Área de Trabalho\Pastita\ProjetoMusical\ProjetoMusical\obj\Debug\ProjetoMusical.csproj.GenerateResource.cache
+C:\Users\Eduardo\OneDrive\Área de Trabalho\Pastita\ProjetoMusical\ProjetoMusical\obj\Debug\ProjetoMusical.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\OneDrive\Área de Trabalho\Pastita\ProjetoMusical\ProjetoMusical\obj\Debug\ProjetoMusical.exe
+C:\Users\Eduardo\OneDrive\Área de Trabalho\Pastita\ProjetoMusical\ProjetoMusical\obj\Debug\ProjetoMusical.pdb
+C:\Users\Eduardo\OneDrive\Área de Trabalho\CarlosJonathasIsaac\ProjetoMusical\ProjetoMusical\bin\Debug\Database1.mdf
+C:\Users\Eduardo\OneDrive\Área de Trabalho\CarlosJonathasIsaac\ProjetoMusical\ProjetoMusical\bin\Debug\Database1_log.ldf
+C:\Users\Eduardo\OneDrive\Área de Trabalho\CarlosJonathasIsaac\ProjetoMusical\ProjetoMusical\bin\Debug\ProjetoMusical.exe.config
+C:\Users\Eduardo\OneDrive\Área de Trabalho\CarlosJonathasIsaac\ProjetoMusical\ProjetoMusical\bin\Debug\ProjetoMusical.exe
+C:\Users\Eduardo\OneDrive\Área de Trabalho\CarlosJonathasIsaac\ProjetoMusical\ProjetoMusical\bin\Debug\ProjetoMusical.pdb
+C:\Users\Eduardo\OneDrive\Área de Trabalho\CarlosJonathasIsaac\ProjetoMusical\ProjetoMusical\obj\Debug\ProjetoMusical.csproj.AssemblyReference.cache
+C:\Users\Eduardo\OneDrive\Área de Trabalho\CarlosJonathasIsaac\ProjetoMusical\ProjetoMusical\obj\Debug\ProjetoMusical.CadastroPessoal.resources
+C:\Users\Eduardo\OneDrive\Área de Trabalho\CarlosJonathasIsaac\ProjetoMusical\ProjetoMusical\obj\Debug\ProjetoMusical.Compras.resources
+C:\Users\Eduardo\OneDrive\Área de Trabalho\CarlosJonathasIsaac\ProjetoMusical\ProjetoMusical\obj\Debug\ProjetoMusical.FichaAnderson.resources
+C:\Users\Eduardo\OneDrive\Área de Trabalho\CarlosJonathasIsaac\ProjetoMusical\ProjetoMusical\obj\Debug\ProjetoMusical.FichaCássia.resources
+C:\Users\Eduardo\OneDrive\Área de Trabalho\CarlosJonathasIsaac\ProjetoMusical\ProjetoMusical\obj\Debug\ProjetoMusical.Funcionarios.resources
+C:\Users\Eduardo\OneDrive\Área de Trabalho\CarlosJonathasIsaac\ProjetoMusical\ProjetoMusical\obj\Debug\ProjetoMusical.Login.resources
+C:\Users\Eduardo\OneDrive\Área de Trabalho\CarlosJonathasIsaac\ProjetoMusical\ProjetoMusical\obj\Debug\ProjetoMusical.Menu.resources
+C:\Users\Eduardo\OneDrive\Área de Trabalho\CarlosJonathasIsaac\ProjetoMusical\ProjetoMusical\obj\Debug\ProjetoMusical.Properties.Resources.resources
+C:\Users\Eduardo\OneDrive\Área de Trabalho\CarlosJonathasIsaac\ProjetoMusical\ProjetoMusical\obj\Debug\ProjetoMusical.Créditos.resources
+C:\Users\Eduardo\OneDrive\Área de Trabalho\CarlosJonathasIsaac\ProjetoMusical\ProjetoMusical\obj\Debug\ProjetoMusical.csproj.GenerateResource.cache
+C:\Users\Eduardo\OneDrive\Área de Trabalho\CarlosJonathasIsaac\ProjetoMusical\ProjetoMusical\obj\Debug\ProjetoMusical.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\OneDrive\Área de Trabalho\CarlosJonathasIsaac\ProjetoMusical\ProjetoMusical\obj\Debug\ProjetoMusical.exe
+C:\Users\Eduardo\OneDrive\Área de Trabalho\CarlosJonathasIsaac\ProjetoMusical\ProjetoMusical\obj\Debug\ProjetoMusical.pdb

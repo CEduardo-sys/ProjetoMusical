@@ -1,0 +1,15 @@
+===========================================================
+                   *Cadastro de Cliente*                  *
+
+*Nome: carlos
+*Data de Nascimento: 30/07/1994
+*Sexualidade: Masculino
+*CPF: 123456789
+*Endereço: asdsa
+*Cidade: Itu
+*UF: SP
+Telefone: 123456789
+Email: dasdsa
+
+Data de criação: 14/06/2022 22:34:52
+===========================================================

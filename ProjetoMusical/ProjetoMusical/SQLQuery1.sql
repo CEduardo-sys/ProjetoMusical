@@ -1,0 +1,1 @@
+﻿insert into Cliente(Nome, Genero, Data_de_Nascimento, Data_de_Registro, CPF, Cidade, UF, Endereco, Telefone, Email) values ('luisa', 'Fewminino', '01021998', '01/06/2022', '78449862302', 'Almeida', 'SP', 'Rua getulop vargas', '19 2031', 'luisa@')

@@ -1,0 +1,37 @@
+===========================================================
+                         *Nota Fiscal*                     
+
+-Instrumentos-
+
+*Bateria: 1
+>Valor: R$ 1500
+
+*Piano Vertical: 0
+>Valor: R$ 0
+
+*Saxofone: 0
+>Valor: R$ 0
+
+*Violão: 0
+>Valor: R$ 0
+
+-Acessórios-
+
+*Par de baquetas: 0
+>Valor: R$ 0
+
+*Partitura Clipe para Saxofone: 0
+>Valor: R$ 0
+
+*Pacote de corda para vioão: 0
+>Valor: R$ 0
+
+*Kit de afinação para Piano: 0
+>Valor: R$ 0
+
+-----------------------------------------------------------
+
+Total a pagar: R$ 1500
+
+Data da compra: 14/06/2022 21:09:51
+===========================================================
